@@ -10,7 +10,7 @@
 | READ 5: |[ classs-05]() |
 | READ 6: |[class-06 ]()  |
 | READ 7: | [class-07]()  |
-| READ 8 |  [class-08]() |
+| READ 8 |  [class-08]()  |
 | READ 9: | [class-09]()  |
 | READ 10: | [class-10]()  |
 | READ 11: | [class-11]()  |
