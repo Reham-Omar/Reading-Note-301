@@ -4,7 +4,7 @@
  topic | link  |
 | ------------- | ------------- |
 | READ 1 |  [01](https://reham-omar.github.io/Reading-Note-301/read1)  |
-| READ 2: | [02]()  |
+| READ 2: | [02](https://reham-omar.github.io/Reading-Note-301/read2)  |
 | READ 3: | [03]()  |
 | READ 4: | [04]()  |
 | READ 5: |[05]() |
