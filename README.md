@@ -9,7 +9,7 @@
 | READ 4: | [04](https://reham-omar.github.io/Reading-Note-301/read4)  |
 | READ 5: | [05](https://reham-omar.github.io/Reading-Note-301/read5) |
 | READ 6: |[06 ](https://reham-omar.github.io/Reading-Note-301/read6)  |
-| READ 7: | [07]()  |
+| READ 7: | [07](https://reham-omar.github.io/Reading-Note-301/read7)  |
 | READ 8 |  [08]()  |
 | READ 9: | [09]()  |
 | READ 10: | [10]()  |
